@@ -1,4 +1,4 @@
-# Trabalho-abnt
+# Trabalho-ABNT
 
 ## 📖 Apresentação do Trabalho
 
